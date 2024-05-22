@@ -1,0 +1,4 @@
+*.zip
+*.patch
+src
+pkg
